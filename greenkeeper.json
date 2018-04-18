@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "L1 - Hello World/ReactL1/hello-world/package.json"
+      ]
+    }
+  }
+}
